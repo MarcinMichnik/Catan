@@ -1,4 +1,4 @@
-namespace ProjectCatan
+namespace ProjectCatan.Models
 {
     public class WeatherForecast
     {
